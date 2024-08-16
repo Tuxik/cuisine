@@ -56,10 +56,11 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: Europe/Paris
         run: |
+          cd website-from-the-kitchen
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/website-from-the-kitchen/"          
+            --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
