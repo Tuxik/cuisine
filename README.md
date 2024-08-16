@@ -1,2 +1,4 @@
 # cuisine
-recette de cuisine de la famille
+recette de cuisine simple
+
+Visible ici : https://tuxik.github.io/cuisine/
