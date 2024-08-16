@@ -32,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.132.0
+      HUGO_VERSION: 0.132.2
     steps:
       - name: Install Hugo CLI
         run: |
@@ -59,7 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
+            --baseURL "${{ steps.pages.outputs.base_url }}/website-from-the-kitchen/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
