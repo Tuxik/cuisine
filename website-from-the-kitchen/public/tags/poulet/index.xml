@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poulet on La cuisine simple et healthy</title>
-    <link>https://example.org/tags/poulet/</link>
+    <link>http://localhost:1313/tags/poulet/</link>
     <description>Recent content in Poulet on La cuisine simple et healthy</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/poulet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/poulet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blanquette de poulet express</title>
-      <link>https://example.org/post/blanquette-de-poulet-express/</link>
+      <link>http://localhost:1313/post/blanquette-de-poulet-express/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/post/blanquette-de-poulet-express/</guid>
+      <guid>http://localhost:1313/post/blanquette-de-poulet-express/</guid>
       <description>Ingredients 1 Poulet (escalope) 1/2 Carotte (frais) 1/2 Poireau 1 càc Fond de veau 50 g Champignons de Paris (frais) 10 cl Crème liquide 50 g Riz Instructions Lavez les légumes, détaillez les carottes en fines rondelles.</description>
     </item>
   </channel>

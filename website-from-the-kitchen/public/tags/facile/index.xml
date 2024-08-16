@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Facile on La cuisine simple et healthy</title>
-    <link>https://example.org/tags/facile/</link>
+    <link>http://localhost:1313/tags/facile/</link>
     <description>Recent content in Facile on La cuisine simple et healthy</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/facile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/facile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chakchouka feta &amp; pois chiches</title>
-      <link>https://example.org/post/chakchouka-feta--pois-chiche/</link>
+      <link>http://localhost:1313/post/chakchouka-feta--pois-chiche/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/post/chakchouka-feta--pois-chiche/</guid>
+      <guid>http://localhost:1313/post/chakchouka-feta--pois-chiche/</guid>
       <description>Ingredients Pour 1 personne :&#xA;2 Œuf 100 g Pois chiches (cuits) 150 g Tomate (purée) 40 g Feta 1/4 Oignon rouge Instructions Épluchez les oignons et émincez-les grossièrement. Dans une poêle à feu vif, versez un filet d&amp;rsquo;huile d&amp;rsquo;olive et ajoutez les oignons.</description>
     </item>
   </channel>
