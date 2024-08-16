@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Express on La cuisine simple et healthy</title>
+    <link>http://localhost:1313/tags/express/</link>
+    <description>Recent content in Express on La cuisine simple et healthy</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/express/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blanquette de poulet express</title>
+      <link>http://localhost:1313/post/blanquette-de-poulet-express/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/blanquette-de-poulet-express/</guid>
+      <description>Ingredients 1 Poulet (escalope) 1/2 Carotte (frais) 1/2 Poireau 1 càc Fond de veau 50 g Champignons de Paris (frais) 10 cl Crème liquide 50 g Riz Instructions Lavez les légumes, détaillez les carottes en fines rondelles.</description>
+    </item>
+    <item>
+      <title>Chakchouka feta &amp; pois chiches</title>
+      <link>http://localhost:1313/post/chakchouka-feta--pois-chiche/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/chakchouka-feta--pois-chiche/</guid>
+      <description>Ingredients Pour 1 personne :&#xA;2 Œuf 100 g Pois chiches (cuits) 150 g Tomate (purée) 40 g Feta 1/4 Oignon rouge Instructions Épluchez les oignons et émincez-les grossièrement. Dans une poêle à feu vif, versez un filet d&amp;rsquo;huile d&amp;rsquo;olive et ajoutez les oignons.</description>
+    </item>
+  </channel>
+</rss>
