@@ -1,7 +1,7 @@
 ---
 title: "Curry de haricots rouge"
 date: 2024-01-31
-tags: ["facile","express"]
+tags: ["végétarien"]
 image : ""
 Description  : "Un curry végétarien au bon goût de lait de coco !"
 featured: false
