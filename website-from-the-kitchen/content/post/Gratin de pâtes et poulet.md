@@ -1,7 +1,7 @@
 ---
 title: 'Gratin de pâtes et poulet'
 date: 2024-08-16T17:34:08+02:00
-draft: true
+draft: false
 tags: ["Gratin"]
 image : ""
 Description  : ""
