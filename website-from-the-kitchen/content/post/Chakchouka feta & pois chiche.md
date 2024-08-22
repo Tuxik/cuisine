@@ -3,7 +3,7 @@ title: Chakchouka feta & pois chiches
 date: 2024-01-31
 tags: ["facile","express"]
 image : "/img/chakchouka.jpg"
-Description  : "La chakchouka, c'est un peu la recette fétiche de JOW pour un repas sur le pouce !"
+Description  : "La chakchouka pour un repas complet et rapide à préparer !"
 featured: false
 ---
 
