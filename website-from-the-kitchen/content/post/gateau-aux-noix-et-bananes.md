@@ -1,9 +1,9 @@
 ---
 title: Gateau healthy aux noix et bananes 
-date: 2024-01-31
-tags: ["poulet","express"]
+date: 2024-08-24
+tags: ["gateau","healthy"]
 image : ""
-Description  : "Une version express de la délicieuse blanquette pour une cuisine simple et quotidienne"
+Description  : "Un gateau healthy à manger sans scrupules"
 featured: false
 ---
 Ce gâteau aux bananes et aux noix est non seulement délicieux mais aussi relativement sain, avec des ingrédients naturels et nutritifs. Parfait pour une célébration sans excès !
