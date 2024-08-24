@@ -18,6 +18,7 @@ Plat simple et healthy pour 4 personnnes
 
 ### Instructions
 
+- Préchauffer le four à 200 degrés
 - Couper les courgettes et les faire cuire 10 minutes 
 - dans un saladier, casser les oeufs 
 - mélanger le lait et le fromage blanc avec les oeufs
