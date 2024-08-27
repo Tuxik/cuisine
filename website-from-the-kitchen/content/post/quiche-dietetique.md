@@ -3,7 +3,7 @@ title: "Quiche diététique"
 date: 2024-08-27
 tags: ["quiche","healthy"]
 image : ""
-Description  : "Un curry végétarien au bon goût de lait de coco !"
+Description  : "Une quiche simple et pleine de protéines"
 featured: false
 ---
  
