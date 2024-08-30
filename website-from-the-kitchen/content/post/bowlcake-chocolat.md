@@ -8,6 +8,7 @@ featured: true
 draft: false
 ---
 
+Apport énérgétique : 423 calories 
 
 ## Ingrédients
 

@@ -8,8 +8,9 @@ featured: true
 draft: false
 ---
 
+Apport énérgétique : 95 calories par portion
 
-## Ingrédients
+## Ingrédients (pour environ 12 portions)
 
 - 1 oeuf
 - 180 grs de farine complète 

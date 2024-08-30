@@ -7,15 +7,17 @@ Description  : "Une version express de la délicieuse blanquette pour une cuisin
 featured: false
 ---
 
-### Ingredients
+Apport énérgétique : 291 calories par portions
 
-- 1 Poulet (escalope)
-- 1/2   Carotte (frais)
-- 1/2   Poireau
-- 1 càc Fond de veau
+### Ingredients (pour 4 portions)
+
+- 4 Poulet (escalope)
+- 2 Carotte (frais)
+- 2 Poireau
+- 2 càc Fond de veau
 - 50 g Champignons de Paris (frais)
-- 10 cl Crème liquide
-- 50 g Riz 
+- 40 cl Crème liquide
+- 200 grs de riz basmati 
 
 ### Instructions
 

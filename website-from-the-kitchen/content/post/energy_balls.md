@@ -7,7 +7,9 @@ Description  : ""
 featured: false
 ---
 
-# Ingrédients
+Apport énérgétique : 103 calories par portion 
+
+# Ingrédients (pour 9 portions)
 
 - 8 càs de flocons d'avoine (éventuellement sans gluten)
 - 5 càs de beurre de cacahouète

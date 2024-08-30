@@ -8,7 +8,9 @@ featured: false
 ---
 Plat simple et healthy pour 4 personnnes
 
-## Ingredients
+Apport énérgétique : 269 calories par portions
+
+## Ingredients (pour 4 portions)
 
 - 200 grs de fromage blanc
 - 600 grs de courgettes

@@ -8,6 +8,7 @@ Description  : "Un petit déjeuner proteiné et hyper rapide à faire ! "
 featured: false
 ---
 
+Apport énérgétique : 414 calories
 
 ## Ingrédients
 

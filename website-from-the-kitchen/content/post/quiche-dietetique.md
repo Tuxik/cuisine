@@ -6,7 +6,9 @@ image : ""
 Description  : "Une quiche simple et pleine de protéines"
 featured: false
 ---
- 
+
+Apport énérgétique : 644 calories 
+
 ## Ingrédients 
 - 1 pâte brisée 
 - 2 tranches de poulet
