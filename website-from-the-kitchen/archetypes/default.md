@@ -8,7 +8,7 @@ featured: false
 draft: true
 ---
 
-Apport énergétique :
+Apport énérgétique :
 
 ## Ingrédients 
 
