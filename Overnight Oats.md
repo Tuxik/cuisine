@@ -1,4 +1,4 @@
-1 serving of BASE OATS contains: 310 calories, 12g protein, 45g carbs, 6.5g fat, 14g sugar, and 7g fibre. This is based on using unsweetened almond milk. 
+ 1 serving of BASE OATS contains: 310 calories, 12g protein, 45g carbs, 6.5g fat, 14g sugar, and 7g fibre. This is based on using unsweetened almond milk. 
 
 Source : https://www.youtube.com/watch?v=mI--h_Ey6Ck
 
