@@ -1,7 +1,7 @@
 ---
 title: 'Tarte à la moutarde proteinée'
 date: 2024-09-08T18:38:39+02:00
-tags: ["facile","healthy","tarte"]
+tags: ["facile","healthy","tarte","quiche"]
 image : ""
 Description  : "Pour une tarte à la moutarde simple, riche en protéines et peu calorique tout en étant facile à préparer"
 featured: false

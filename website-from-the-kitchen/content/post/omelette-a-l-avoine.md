@@ -2,10 +2,10 @@
 title: "Omelette à l'avoine"
 date: 2024-08-30T16:59:51+02:00
 draft: false
-tags: ["healthy", "petit déjeuner","rapide","express"]
+tags: ["healthy", "petit déjeuner","facile","express"]
 image : ""
 Description  : "Un petit déjeuner proteiné et hyper rapide à faire ! "
-featured: false
+featured: true
 ---
 
 Apport énérgétique : 414 calories
