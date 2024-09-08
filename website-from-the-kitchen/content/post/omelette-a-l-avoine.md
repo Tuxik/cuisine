@@ -2,7 +2,7 @@
 title: "Omelette à l'avoine"
 date: 2024-08-30T16:59:51+02:00
 draft: false
-tags: ["healthy", "petit déjeuner","facile","express"]
+tags: ["healthy", "petit-dejeuner","facile","express"]
 image : ""
 Description  : "Un petit déjeuner proteiné et hyper rapide à faire ! "
 featured: true

@@ -1,7 +1,7 @@
 ---
 title: 'Bowlcake Chocolat'
 date: 2024-08-30T17:12:36+02:00
-tags: ["express","healthy","facile", "petit déjeuner"]
+tags: ["express","healthy","facile", "petit-dejeuner"]
 image : ""
 Description  : "Bowlcake au chocolat "
 featured: true
