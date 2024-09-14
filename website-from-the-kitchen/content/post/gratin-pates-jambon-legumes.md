@@ -1,5 +1,5 @@
 ---
-title: 'Gratin Pates Jambon Legumes'
+title: 'Gratin de pates au jambon et légumes'
 date: 2024-09-14T10:50:29+02:00
 tags: ["gratin"]
 image : ""
