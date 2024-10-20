@@ -1,9 +1,9 @@
 ---
 title: Quiche lorraine simplissime
 date: 2024-09-15
-tags: ["quiche","simple","rapide"]
+tags: ["quiche","simple"]
 image : ""
-Description  : "Un basique rapide"
+Description  : "Délicieux et rapide"
 featured: false
 ---
 Apport énérgétique : ??
