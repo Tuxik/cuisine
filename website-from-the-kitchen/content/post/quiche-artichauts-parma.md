@@ -10,7 +10,7 @@ featured: false
 Apport énérgétique : 1900 calories 
 
 
-## Ingrédients 
+# Ingrédients 
 
 - 1 pâte brisée 
 - 1 mozzarella
@@ -20,7 +20,8 @@ Apport énérgétique : 1900 calories
 - 10cl lait
 - 10cl de crème liquide 
 
-- ## Étapes de la recette 
+# Étapes de la recette 
+
 1. préchauffer le four à 180°C
 2. Placer la pate brisée dans le moule piquez la et placez la au four 5 minutes
 3. dans un récipient ajouter les œufs, le lait, la crème et fouettez le tout 
