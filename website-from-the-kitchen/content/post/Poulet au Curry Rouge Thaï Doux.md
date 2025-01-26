@@ -2,12 +2,12 @@
 title: Poulet au Curry Rouge Thaï Doux
 date: 2025-01-26
 tags: ["poulet","exotique"]
-image : "/img/pouletThai.png"
+image : "PouletAuCurryRougeThaiDoux.png"
 Description  : "Un plat typique Thaï (attention pimenté)"
 featured: false
 ---
 
-Apport énérgétique : ?? calories par portions
+Apport énérgétique : 530 calories par portions
 
 ### Ingredients (pour 5 portions)
 
