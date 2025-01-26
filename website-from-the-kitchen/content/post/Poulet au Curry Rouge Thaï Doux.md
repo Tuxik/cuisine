@@ -2,7 +2,7 @@
 title: Poulet au Curry Rouge Thaï Doux
 date: 2025-01-26
 tags: ["poulet","exotique"]
-image : "PouletAuCurryRougeThaiDoux.png"
+image : "img/PouletAuCurryRougeThaiDoux.png"
 Description  : "Un plat typique Thaï (attention pimenté)"
 featured: false
 ---
