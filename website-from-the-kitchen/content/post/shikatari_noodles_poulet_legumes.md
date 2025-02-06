@@ -3,8 +3,8 @@ layout: recipe
 date: 2025-02-06T14:50:40+01:00
 title: "Shirataki Noodles au Poulet et Légumes Croquants"
 description: "Une recette riche en protéines et faible en glucides, parfaite pour un repas équilibré et savoureux."
-image: shirataki-noodles-poulet-legumes.png
-tags: [poulet, shirataki, légumes, faible en glucides, riche en protéines]
+image: "/img/posts/shirataki-noodles-poulet-legumes.png"
+tags: [poulet,exotique,déjeuner,diner]
 yield: 5 portions
 prep_time: 15 minutes
 cook_time: 20 minutes
