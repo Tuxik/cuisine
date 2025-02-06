@@ -1,5 +1,5 @@
 ---
-title: 'Poelee Pois Chiche'
+title: 'Poélée  de pois chiche'
 date: 2024-11-23T15:27:05+01:00
 tags: ["déjeuner","diner","healthy"]
 image : ""
@@ -7,8 +7,6 @@ Description  : ""
 featured: false
 draft: false
 ---
-
-# Poélée Pois Chiche
 
 Apport énérgétique (pour 4 parts) : 1565 calories
 

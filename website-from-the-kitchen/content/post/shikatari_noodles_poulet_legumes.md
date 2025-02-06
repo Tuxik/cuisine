@@ -11,8 +11,6 @@ cook_time: 20 minutes
 total_time: 35 minutes
 ---
 
-## Shirataki Noodles au Poulet et Légumes Croquants
-
 Cette recette de **Shirataki Noodles au Poulet et Légumes Croquants** est une option délicieuse et nutritive pour ceux qui recherchent un repas riche en protéines et faible en glucides. Les shirataki noodles, faibles en calories, sont combinés avec du poulet maigre et des légumes croquants pour créer un plat équilibré et savoureux.
 
 ### Ingrédients (pour 5 personnes)
