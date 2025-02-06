@@ -2,7 +2,7 @@
 title: 'Pasta Carbo Poireaux'
 date: 2024-11-23T15:23:02+01:00
 tags: ["diner"]
-image : "https://static.jow.fr/304x304/recipes/SnuQhlGqDYM0yQ.png"
+image : ""
 Description  : ""
 featured: false
 draft: false

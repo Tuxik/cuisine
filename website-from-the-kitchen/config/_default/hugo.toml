@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 enableRobotsTXT = false
 enableGitInfo = false
-Paginate = 6
+pagination.pagerSize = 6
 summaryLength  = "30"
 
 [Params]
