@@ -3,12 +3,12 @@ title: 'Pasta Carbo Poireaux'
 date: 2024-11-23T15:23:02+01:00
 tags: ["diner"]
 image : ""
-Description  : ""
+Description  : "Découvrez une twist irrésistible sur la carbonara classique avec nos Pasta Carbo Poireaux !"
 featured: false
 draft: false
 ---
 
-Apport énérgétique (pour 4 parts) : 2400 calories 
+Cette recette réinvente le célèbre plat italien en y ajoutant une touche de fraîcheur et de légèreté grâce aux poireaux. Alliant la crémosité de la sauce carbonara traditionnelle à la douceur des poireaux, ce plat offre un mariage de saveurs surprenant et délicieux. Facile à préparer, il saura dérouter les papilles des amateurs de pâtes !
 
 ### Ingredients pour 4 personnes
 
@@ -31,3 +31,5 @@ Apport énérgétique (pour 4 parts) : 2400 calories
 - Coupez le feu quand les poireaux sont bien cuits.
 - Une fois les pâtes cuites, égouttez-les puis ajoutez les dans la poêle avec les lardons et les poireaux. Coupez le feu puis ajoutez la préparation à carbonara. Mélangez.
 - Servir les pâtes avec un peu de parmesan râpé sur le dessus, c'est prêt ! 
+
+Apport énérgétique (pour 4 parts) : 2400 calories 
