@@ -8,6 +8,8 @@ featured: false
 draft: false
 ---
 
+# Poélée Pois Chiche
+
 Apport énérgétique (pour 4 parts) : 1565 calories
 
 ## Ingredients 
