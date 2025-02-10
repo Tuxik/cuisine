@@ -1,5 +1,5 @@
 
-baseURL = 'https://localhost:1313/'
+baseURL = 'https://tuxik.github.io/cuisine/'
 languageCode = 'fr-fr'
 title = 'La cuisine simple et healthy'
 theme = 'lightbi-hugo'
