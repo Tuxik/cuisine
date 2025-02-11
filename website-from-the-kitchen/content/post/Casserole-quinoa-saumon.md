@@ -3,7 +3,7 @@ layout: recipe
 date: 2025-02-07T10:50:40+01:00
 title: "Casserole de Quinoa au Saumon et Pois Chiches"
 description: "Un tourbillon de saveurs méditerranéennes et de bien-être dans votre assiette : la recette qui transforme votre repas en moment vitaminé !"
-image: ""
+image: "/img/casserole-quinoa-saumon-pois-chiche.jpg"
 tags:  ["healthy", "protéines", "déjeuner", "diner"]
 yield: 5 portions
 prep_time: 15 minutes

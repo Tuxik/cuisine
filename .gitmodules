@@ -1,6 +1,3 @@
-[submodule "website-from-the-kitchen/lightbi-hugo"]
-	path = website-from-the-kitchen/lightbi-hugo
-	url = https://github.com/binokochumolvarghese/lightbi-hugo.git
 [submodule "website-from-the-kitchen/themes/lightbi-hugo"]
 	path = website-from-the-kitchen/themes/lightbi-hugo
-	url = https://github.com/binokochumolvarghese/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo.git

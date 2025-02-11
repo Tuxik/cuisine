@@ -57,10 +57,13 @@ jobs:
           TZ: Europe/Paris
         run: |
           cd website-from-the-kitchen
+          git submodule update --init
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
+            --environment production \
+            --baseURL "${{ steps.pages.outputs.base_url }}/" 
+            
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
