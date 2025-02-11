@@ -26,7 +26,7 @@ Ce sauté savoureux combine protéines maigres et légumes vitaminés pour un re
 5. **Incorporer** la crème, laisser mijoter 5 min
 
 ### **Astuces Healthy** 🌿
-- **Réduction de gras** : Remplacer la crème par du lait de coco light (+ fibres[^3])
+- **Réduction de gras** : Remplacer la crème par du lait de coco light (+ fibres)
 - **Végétarien** : Substituer le poulet par des pois chiches rôtis
 - **Sans lactose** : Utiliser une crème d'amande non sucrée
 - **Boost nutritionnel** : Ajouter 2 c.à.c de curry ou curcuma en fin de cuisson
