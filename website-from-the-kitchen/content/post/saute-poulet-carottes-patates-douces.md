@@ -2,7 +2,7 @@
 title: "Sauté de Poulet aux Carottes et Patates Douces"
 date: 2025-02-11T11:32:00+01:00
 draft: false
-featured_image: /images/saute-poulet-legumes.jpg
+image: ""
 Description: "Un Repas Équilibré en 25 Minutes"
 tags: ["sain", "rapide", "familial","diner","dejeuner","poulet"]
 ---
